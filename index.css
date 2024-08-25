@@ -10,6 +10,11 @@ body{
     /*align-items: center;
     justify-content: center;*/
 }
+h1{
+    color: black;
+    justify-content: center;
+    margin-left: 50px;
+}
 .container{
     width: 400px;
     padding: 35px;
@@ -18,7 +23,7 @@ body{
     background: #ffffff;
     box-shadow: 15px 30px 35px rgba(0,0,0,0.1);
     transform: translate(-50%,-50%);
-    top: 50%;
+    top: 250px;
     left: 50%;
     position: absolute;
     -webkit-perspective: 300px;
